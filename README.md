@@ -1,16 +1,59 @@
-<h1 align="center">Hi 👋, I'm Vignesh Shankaran</h1>
-<h3 align="center">A passionate mern fullstack developer from India</h3>
+# Hi there, I'm Vignesh Shankaran 👋
 
-- 🌱 I’m currently learning **React Native**
+![Profile Views](https://komarev.com/ghpvc/?username=vigneshshankaran&color=blueviolet)
 
-- 💬 Ask me about **"Hi, I'm a Full Stack Developer skilled in building web applications using React, Node.js, Express, and MongoDB. I write clean, reusable code and quickly adapt to new technologies. I'm passionate about continuous learning and growth."**
+I’m a passionate Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I love turning complex problems into simple, beautiful, and intuitive solutions. I’m always looking to learn new things and improve my skills.
 
-- 📫 How to reach me **vigneshshankaran@hotmail.com**
+## 🛠️ Technologies & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vignesh-shankaran-75695941/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vignesh-shankaran-75695941/" height="30" width="40" /></a>
-</p>
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=white&style=flat)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+
+### Other Tools
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+
+## 📈 GitHub Stats
+![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigneshshankaran&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshshankaran&layout=compact&theme=radical)](https://github.com/vigneshshankaran/github-readme-stats)
+
+## 📫 How to reach me
+- LinkedIn: [Vignesh Shankaran](https://www.linkedin.com/in/vignesh-shankaran)
+- Email: [vignesh@example.com](mailto:vignesh@example.com)
+
+## 🛠️ Projects
+### [Pizza Delivery App](https://github.com/vigneshshankaran/pizza-delivery-app)
+A full-stack pizza delivery application built with the MERN stack. It allows users to customize their orders, track delivery in real-time, and manage payments. 
+
+### [Your Project Name](https://github.com/vigneshshankaran/your-project-repo)
+Brief description of what the project is about and what technologies you used.
+
+## 🎯 Interests
+- Exploring new technologies and staying updated with industry trends
+- Open-source contribution
+- Web performance optimization
+- Building scalable web applications
+
+## 🌱 Currently Learning
+- TypeScript
+- GraphQL
+- Advanced React patterns
+
+## 💬 Let's Connect
+I'm always open to discuss new opportunities, collaborations, or just chat about tech. Feel free to reach out!
+
+---
+
