@@ -21,7 +21,6 @@ I’m a passionate Full Stack Developer specializing in the MERN stack (MongoDB,
 ### Other Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
@@ -31,7 +30,7 @@ I’m a passionate Full Stack Developer specializing in the MERN stack (MongoDB,
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshshankaran&layout=compact&theme=radical)](https://github.com/vigneshshankaran/github-readme-stats)
 
 ## 📫 How to reach me
-- LinkedIn : [Vignesh Shankaran](https://www.linkedin.com/in/vignesh-shankaran)
+- LinkedIn: [Vignesh Shankaran](https://www.linkedin.com/in/vignesh-shankaran-75695941/)
 - Email: [vignesh@example.com](mailto:vigneshganesha@gmail.com)
 
 ## 🛠️ Projects
