@@ -31,12 +31,12 @@ I’m a passionate Full Stack Developer specializing in the MERN stack (MongoDB,
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshshankaran&layout=compact&theme=radical)](https://github.com/vigneshshankaran/github-readme-stats)
 
 ## 📫 How to reach me
-- LinkedIn: [Vignesh Shankaran](https://www.linkedin.com/in/vignesh-shankaran)
-- Email: [vignesh@example.com](mailto:vignesh@example.com)
+- LinkedIn : [Vignesh Shankaran](https://www.linkedin.com/in/vignesh-shankaran)
+- Email: [vignesh@example.com](mailto:vigneshganesha@gmail.com)
 
 ## 🛠️ Projects
 ### [Pizza Delivery App](https://github.com/vigneshshankaran/pizza-delivery-app)
-A full-stack pizza delivery application built with the MERN stack. It allows users to customize their orders, track delivery in real-time, and manage payments. 
+A full-stack pizza delivery application built with the MERN stack. It allows users to customize their orders, track delivery in real time, and manage payments. 
 
 ### [Your Project Name](https://github.com/vigneshshankaran/your-project-repo)
 Brief description of what the project is about and what technologies you used.
@@ -53,7 +53,7 @@ Brief description of what the project is about and what technologies you used.
 - Advanced React patterns
 
 ## 💬 Let's Connect
-I'm always open to discuss new opportunities, collaborations, or just chat about tech. Feel free to reach out!
+I'm always open to discussing new opportunities, collaborations, or just chatting about tech. Feel free to reach out!
 
 ---
 
