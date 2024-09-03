@@ -31,14 +31,12 @@ I’m a passionate Full Stack Developer specializing in the MERN stack (MongoDB,
 
 ## 📫 How to reach me
 - LinkedIn: [Vignesh Shankaran](https://www.linkedin.com/in/vignesh-shankaran-75695941/)
-- Email: [vignesh@example.com](mailto:vigneshganesha@gmail.com)
+- Email: [vigneshganesha@gmail.com](mailto:vigneshganesha@gmail.com)
 
 ## 🛠️ Projects
 ### [Pizza Delivery App](https://github.com/vigneshshankaran/pizza-delivery-app)
 A full-stack pizza delivery application built with the MERN stack. It allows users to customize their orders, track delivery in real time, and manage payments. 
 
-### [Your Project Name](https://github.com/vigneshshankaran/your-project-repo)
-Brief description of what the project is about and what technologies you used.
 
 ## 🎯 Interests
 - Exploring new technologies and staying updated with industry trends
